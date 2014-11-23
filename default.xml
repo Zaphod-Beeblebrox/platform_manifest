@@ -54,7 +54,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk,notdefault" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
-  <project path="device/rockchip" name="device_rockchip" remote="zbgh" revision="kitkat" groups="notdefault,device,rk3188" />
+  <project path="device/rockchip" name="device_rockchip" remote="zbgh" revision="kitkat"/>
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" remote="cm" revision="cm-11.0" />
@@ -336,7 +336,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-11.0" />
-  <project path="kernel/rockchip/rk3188" name="kernel_rockchip_rk3188" remote="zbgh" revision="kitkat" groups="notdefault,kernel,grouper" />
+  <project path="kernel/rockchip/rk3188" name="kernel_rockchip_rk3188" remote="zbgh" revision="kitkat" />
    <project path="libcore" name="AOKP/libcore" remote="aokp" revision="kitkat" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
