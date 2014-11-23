@@ -16,7 +16,7 @@ Initializing Repository
 
 Init core trees 
 
-    $ repo init -u https://github.com/AOKP/platform_manifest.git -b kitkat
+    $ repo init -u https://github.com/Zaphod-Beeblebrox/platform_manifest.git -b kitkat
 
 
 sync repo :
