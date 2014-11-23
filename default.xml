@@ -4,6 +4,9 @@
   <remote  name ="zbgh"
            fetch="https://github.com/Zaphod-Beeblebrox" />
 
+  <remote  name ="red13"
+           fetch="https://github.com/red13dotnet" />
+ 
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
@@ -337,8 +340,8 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-11.0" />
-  <project path="kernel/rockchip/rk3188" name="kernel_rockchip_rk3188" remote="zbgh" revision="kitkat" />
-   <project path="libcore" name="AOKP/libcore" remote="aokp" revision="kitkat" />
+  <project path="kernel" name="kernel" remote="red13" revision="master" />
+  <project path="libcore" name="AOKP/libcore" remote="aokp" revision="kitkat" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -497,6 +500,10 @@
   <project path="vendor/aokp" name="vendor_aokp" remote="zbgh" revision="kitkat" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="kitkat" />
   <project path="vendor/aokp/resources" name="AOKP/vendor_aokp_resources" remote="aokp" revision="kitkat" />
+  <project path="vendor/google" name="vendor_google" remote="zbgh" revision="kitkat" />
+  <project path="vendor/widevine" name="vendor_widevine" remote="zbgh" revision="kitkat" />
+
+
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="kitkat" />
 
