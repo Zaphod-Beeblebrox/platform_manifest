@@ -78,7 +78,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jungleji" revision="radxrock-cm-11.0"/>
+  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jungleji" revision="radxarock-cm-11.0"/>
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/busybox" name="AOKP/external_busybox" remote="aokp" revision="kitkat" />
