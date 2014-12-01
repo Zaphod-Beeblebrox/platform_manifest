@@ -7,7 +7,7 @@
   <remote  name ="red13"
            fetch="https://github.com/red13dotnet" />
 
-<remote  name ="jungleji"
+  <remote  name ="jungleji"
            fetch="https://github.com/jungleji" />
  
   <remote  name="aosp"
@@ -331,6 +331,7 @@
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="cm" revision="cm-11.0" />
+  <project path="hardware/realtek" name="android_hardware_realtek" remote="zbgh" revision="kitkat" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="hardware/rk29" name="android_hardware_rk29" remote="zbgh" revision="kitkat" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="cm" revision="cm-11.0" />
