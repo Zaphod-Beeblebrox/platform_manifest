@@ -252,7 +252,6 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" remote="cm" revision="cm-11.0" />
   <project path="external/srtp" name="platform/external/srtp" />
-  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/stlport" name="platform/external/stlport" groups="pdk" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="cm" revision="cm-11.0" />
   <project path="external/stressapptest" name="platform/external/stressapptest" />
