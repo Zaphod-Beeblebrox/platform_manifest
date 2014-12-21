@@ -507,6 +507,9 @@
   <project path="vendor/rockchip/rk3188" name="vendor_rockchip_rk3188" remote="zbgh" revision="kitkat" />
   <project path="vendor/google" name="vendor_google" remote="zbgh" revision="kitkat" />
   <project path="vendor/widevine" name="vendor_widevine" remote="zbgh" revision="kitkat" />
+  
+  <project path="rockdev" name="jungleji/android_rockdev" remote="zbgh" revision="kitkat">
+    <copyfile src="rockdev/mkimage.sh" dest="mkimage.sh" />
 
 
 
