@@ -510,6 +510,7 @@
   
   <project path="rockdev" name="jungleji/android_rockdev" remote="zbgh" revision="kitkat">
     <copyfile src="rockdev/mkimage.sh" dest="mkimage.sh" />
+  </project>
 
 
 
