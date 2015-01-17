@@ -39,7 +39,7 @@
   <project path="bionic" name="AOKP/bionic" remote="aokp" revision="kitkat" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="android_bootable_recovery_rk" remote="jungleji" revision="radxarock-cm-11.0" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="omni" revision="android-4.4" />
   //<project path="bootable/recovery-cm" name="CyanogenMod/android_bootable_recovery-cm" remote="cm" revision="cm-11.0" />
   //<project path="bootable/recovery-philz" name="PhilZ-cwm6/philz_touch_cwm6" remote="cm" revision="cm-11.0" />
   <project path="cts" name="platform/cts" groups="cts"/>
